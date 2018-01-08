@@ -36,21 +36,7 @@ Ultimately I felt that focus on medical devices and how they could be hacked/ ex
 
 This is definitely a project I would like to continue to explore. As much as I would like to continue animating new scenarios, I think it would be more productive, and much more powerful to explore options that are more tangible. I’m not sure what media that should be, but it would be interesting to physically make them, or at the very least turn them into an interactive onscreen game of some kind.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![proxy-banner-sm_0_701](https://user-images.githubusercontent.com/30060990/34661112-3225a5b0-f3fc-11e7-91f7-f0c1f793358d.jpg)
 
 // Tools
 
