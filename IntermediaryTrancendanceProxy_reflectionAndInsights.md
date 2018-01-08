@@ -1,4 +1,4 @@
-<img width="641" alt="screen shot 2018-01-07 at 10 20 40 pm" src="https://user-images.githubusercontent.com/30060990/34660717-59c2e90a-f3f9-11e7-80a9-5eea11a392b6.png">(https://vimeo.com/192294742"Intermediary Transcendence Proxy")
+<img width="641" alt="screen shot 2018-01-07 at 10 20 40 pm" src="https://user-images.githubusercontent.com/30060990/34660717-59c2e90a-f3f9-11e7-80a9-5eea11a392b6.png">(https://vimeo.com/192294742"Intermediary-Transcendence-Proxy")
 
 
 Intermediary Transcendence Proxy exploration of the future of labor that challenges and pushes the limits of Marshall Mcluhan's concepts of media. Specifically the quote:
