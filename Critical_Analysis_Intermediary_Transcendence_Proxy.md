@@ -4,7 +4,7 @@ In the first scenario, the office worker is simply a vessel for a community of o
 
 </br>
 
-<img width="335" alt="screen-shot-2017-02-27-at-1 49 57-am_670" src="https://user-images.githubusercontent.com/30060990/35018948-f3247e5c-fad8-11e7-9b33-f6d089be54ff.png">
+![screen shot 2018-01-16 at 4 35 01 pm](https://user-images.githubusercontent.com/30060990/35019368-66c5f1f4-fadb-11e7-9859-d582fbe9e43f.png)
 
 </br>
 </br>
@@ -13,7 +13,8 @@ The second scenario explores how labor would change if airports hired human work
 
 </br>
 
-<img width="335" alt="screen-shot-2017-02-27-at-1 50 08-am_670 1" src="https://user-images.githubusercontent.com/30060990/35018957-fddbe894-fad8-11e7-81dc-f027f1a9c0b2.png">
+
+![screen shot 2018-01-16 at 4 17 51 pm](https://user-images.githubusercontent.com/30060990/35019392-8a033550-fadb-11e7-9395-063bb9c64f64.png)
 
 </br>
 </br>
@@ -22,7 +23,7 @@ The third scenario explores labor in a port. As a dock worker starts to use her 
 
 </br>
 
-<img width="335" alt="screen-shot-2017-02-27-at-1 50 15-am_670 1" src="https://user-images.githubusercontent.com/30060990/35018981-2c95049a-fad9-11e7-8cff-90652fbcf81b.png">
+![screen shot 2018-01-16 at 4 17 58 pm](https://user-images.githubusercontent.com/30060990/35019404-9af64c94-fadb-11e7-9bda-d8292aba47f3.png)
 
 </br>
 </br>
@@ -37,7 +38,7 @@ Adversarial design as an intentional practice of inquiry into the political cond
 </br>
 
 
-<img width="335" alt="screen-shot-2017-02-27-at-1 50 26-am_670" src="https://user-images.githubusercontent.com/30060990/35019001-4bfbbde2-fad9-11e7-8365-300cbf285870.png">
+![screen shot 2018-01-16 at 4 38 30 pm](https://user-images.githubusercontent.com/30060990/35019443-bc231136-fadb-11e7-8e56-389dbfe42700.png)
 
 
 http://survival.sentientcity.net/
@@ -61,7 +62,7 @@ ITP also roots itself in speculative design because it extends just past an aspe
 
 </br>
 
-<img width="335" alt="screen-shot-2017-02-27-at-1 50 38-am_670" src="https://user-images.githubusercontent.com/30060990/35019019-720a54a8-fad9-11e7-8f30-9bea98b63228.png">
+![screen shot 2018-01-16 at 4 39 21 pm](https://user-images.githubusercontent.com/30060990/35019458-d9701e0a-fadb-11e7-99fc-182c0cdb3d83.png)
 
 (Charlie Brooker, Black Mirror, 2012)
 
@@ -78,7 +79,8 @@ As much as ITP lends itself to adversarial design, specifically agonism, there a
 This piece is more speculative design then it is adversarial design. From the start ITP always been about proposing a specific future, and it depicts that future to the viewers in a less than believable manner. By presenting this depiction, I wanted the viewers to think about the possibility of this future’s absurdity, and to then start to realize that in many ways it’s totally possible, and beginning to happen. The absurdity of this piece, doesn’t completely exclude the possibility of it becoming adversarial design, but its function in creating a political conflict doesn’t quite exist and needs to be better framed. Most of the more absurd examples Disalvo references (like Omo, see below), are odd/surreal, but that that oddity is a tool to reinforce an interaction between the user and the design that situates the user in agonism. This further allows them, through interaction of some kind, to develop a greater understanding and to form their own opinion on the subject matter. I think in future iterations of this piece it would be interesting to make something tangible, whether that be a piece of software or physical space that allows for the user to further experience this series of dynamics. Actually making the interactive proxies, with corresponding software, to immerse the user into this proposed future would be an interesting next step, and would provide the platform needed to further discuss the issues at hand and create a stronger sense of agonism.
 
 </br>
-<img width="335" alt="screen-shot-2017-02-27-at-1 51 14-am_670" src="https://user-images.githubusercontent.com/30060990/35019049-9364b3b4-fad9-11e7-8035-6ae7e917ee0a.png">
+
+![screen shot 2018-01-16 at 4 35 14 pm](https://user-images.githubusercontent.com/30060990/35019467-e8f4731c-fadb-11e7-9b62-4798204adb62.png)
 
 (Kelly Dobson, Omo (2007b)
 
