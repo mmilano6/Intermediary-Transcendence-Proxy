@@ -96,4 +96,4 @@ Disalvo, Carl. Adversarial design. Place of publication not identified: Mit Pres
 
 Dunne, Anthony, and Fiona Raby. Speculative everything: design, fiction, and social dreaming. S.l.: MIT, 2014. </br>
 
-Fiala, Andrew. The Bloomsbury companion to political philosophy. London: Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc, 2017. </br>
+Fiala, Andrew. The Bloomsbury companion to political philosophy. London: Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc, 2017. </br> </br>
