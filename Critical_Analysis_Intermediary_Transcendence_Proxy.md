@@ -86,12 +86,12 @@ This piece is more speculative design then it is adversarial design. From the st
 </br>
 
 
-Shepard, Mark. "Sentient City Survival Kit." Sentient City Survival Kit. Accessed February 20, 2017. http://survival.sentientcity.net/.
+Shepard, Mark. "Sentient City Survival Kit." Sentient City Survival Kit. Accessed February 20, 2017. http://survival.sentientcity.net/. </br>
 
-Brooker, Charlie, and Kanak Huq, writers. "Fifteen Million Merits." In Black Mirror. December 11, 2011.
+Brooker, Charlie, and Kanak Huq, writers. "Fifteen Million Merits." In Black Mirror. December 11, 2011. </br>
 
-Disalvo, Carl. Adversarial design. Place of publication not identified: Mit Press, 2015.
+Disalvo, Carl. Adversarial design. Place of publication not identified: Mit Press, 2015. </br>
 
-Dunne, Anthony, and Fiona Raby. Speculative everything: design, fiction, and social dreaming. S.l.: MIT, 2014.
+Dunne, Anthony, and Fiona Raby. Speculative everything: design, fiction, and social dreaming. S.l.: MIT, 2014. </br>
 
-Fiala, Andrew. The Bloomsbury companion to political philosophy. London: Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc, 2017.
+Fiala, Andrew. The Bloomsbury companion to political philosophy. London: Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc, 2017. </br>
